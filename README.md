@@ -35,13 +35,9 @@ Expected sample results
 
 
 🟢 Easy Questions (Fundamentals)
-#QuestionConceptsQ1Top 10 longest tracksSELECT, ORDER BY, TOPQ2Customers from BrazilWHERE, string concatQ3Unique customer countriesDISTINCTQ4Premium-priced track countCOUNT, WHEREQ5Tracks per genreLEFT JOIN, GROUP BYQ6Total revenueSUMQ7Average invoice per countryAVG, GROUP BYQ8Cheapest & most expensive trackMIN, MAXQ9Tracks starting with "Love"LIKEQ102019 invoices summaryBETWEEN, dates
-
 🟡 Moderate Questions (Joins & Subqueries)
-#QuestionConceptsQ11Albums with artistsINNER JOINQ125-table JOINMultiple JOINsQ13Artists with album countsLEFT JOINQ14Genres earning > $50HAVINGQ15Above-average length tracksSubqueryQ16Biggest invoice per customerGROUP BY + MAXQ17Tracks never purchasedNOT INQ18Monthly revenue 2019Date functionsQ19Email domain extractionUPPER, SUBSTRINGQ20Track length bucketsCASE WHEN
-
 🔴 Advanced Questions (CTEs & Window Functions)
-#QuestionConceptsQ21Top 5 customersCTEQ22Top track per genreROW_NUMBER, PARTITION BYQ23Top genre per countryRANKQ24Top 10 artists rankedDENSE_RANKQ25Customer segmentationNTILEQ26Month-over-month growthLAGQ27Running revenue totalSUM OVERQ28Combined contact listUNIONQ29Markets without supportNOT IN subqueryQ30Top customers viewCREATE VIEW
+
 
 💡 Key Insights from the Analysis
 🔍 FindingInsight🎸 Top genreRock dominates — top genre in 23 of 24 countries👑 Top artistQueen generated the most revenue ($190.08)🌍 Best marketUSA has the most invoices; Czech Republic spends most per order👤 Top customerFrantišek Wichterlová spent $144.54 across 18 invoices📉 Dead inventory1,697 tracks (48%) have never been purchased🌎 Coverage gap23 of 24 customer countries have no local employees
