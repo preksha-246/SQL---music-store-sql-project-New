@@ -60,15 +60,25 @@ Run the query and see the results!
 🛠️ SQL Concepts Demonstrated
 
 ✅ Joins: INNER, LEFT, multi-table (5+)
+
 ✅ Aggregations: COUNT, SUM, AVG, MIN, MAX
+
 ✅ GROUP BY with HAVING
+
 ✅ Subqueries: scalar, NOT IN, correlated
+
 ✅ Date functions: YEAR, MONTH, DATENAME, BETWEEN
+
 ✅ String functions: UPPER, SUBSTRING, CHARINDEX, LIKE
+
 ✅ CASE WHEN conditional logic
+
 ✅ CTEs (WITH clause)
+
 ✅ Window functions: ROW_NUMBER, RANK, DENSE_RANK, NTILE, LAG, SUM OVER
+
 ✅ Set operators: UNION
+
 ✅ Views: CREATE VIEW
 
 
