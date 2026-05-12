@@ -35,7 +35,9 @@ Expected sample results
 
 
 🟢 Easy Questions (Fundamentals)
+
 🟡 Moderate Questions (Joins & Subqueries)
+
 🔴 Advanced Questions (CTEs & Window Functions)
 
 
