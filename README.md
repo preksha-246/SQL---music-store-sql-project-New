@@ -83,9 +83,13 @@ Run the query and see the results!
 
 
 👤 Author
+
 Preksha Mehta
+
 🔗 LinkedIn: linkedin.com/in/preksha-mehta
+
 🐙 GitHub: @preksha-246
+
 Feel free to fork, learn from, or contribute to this project!
 
 📄 License
